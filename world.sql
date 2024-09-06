@@ -38,6 +38,8 @@ CREATE TABLE countrylanguages (
     percentage real NOT NULL
 );
 
+211
+
 INSERT INTO cities VALUES (1,'Kabul','AFG','Kabol',1780000);
 INSERT INTO cities VALUES (2,'Qandahar','AFG','Qandahar',237500);
 INSERT INTO cities VALUES (3,'Herat','AFG','Herat',186800);
